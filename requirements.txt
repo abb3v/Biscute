@@ -1,0 +1,4 @@
+py-cord
+asyncpg # use aiosqlite for SQLitte
+pycord-multicog
+toml
